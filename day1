@@ -1,0 +1,15 @@
+# Import the datetime module to work with dates
+from datetime import date
+
+# Define variables to store information (not hardcoded values)
+my_name = "Yellumahanthi Sridevi"
+internship_role = "Python Developer Intern"
+today_date = date.today()
+
+# Print the information
+print("Name:", my_name)
+print("Internship Role:", internship_role)
+print("Today's Date:", today_date)
+
+
+
